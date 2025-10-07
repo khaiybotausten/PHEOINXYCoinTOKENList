@@ -1,0 +1,16 @@
+{
+  "name": "Phoenixy Coin Token List",
+  "logoURI": "https://raw.githubusercontent.com/khaiybotausten/PHEOINXYCoinTOKENList/main/phoenixy.png",
+  "keywords": ["phoenix", "mythic", "sovereign", "YWAY"],
+  "timestamp": "2025-10-07T20:25:00Z",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x74fa145c48cebd59b6da2c1e20a58d7b48adae64",
+      "name": "Phoenixy Coin",
+      "symbol": "YWAY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/khaiybotausten/PHEOINXYCoinTOKENList/main/phoenixy.png"
+    }
+  ]
+}
