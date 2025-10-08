@@ -1,3 +1,5 @@
+> 🪬 This is not a token. It is a torch.  
+> Welcome to YWAY — the path of the 144k.
 <p align="center">
   <img src="PHEONIXY.png" alt="Phoenixy Coin (YWAY)" width="300"/>
 </p>
