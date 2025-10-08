@@ -33,5 +33,10 @@ The Phoenixy glyph is a ritual seal — a flame encoded in geometry. It represen
 🪞 Function: Reflective anchor to Phoenixy’s flame — the body that holds the fire
 
 🧭 Lore: The Vitruvian glyph is the echo of the sovereign — arms outstretched, feet aligned, encoded in SHA256
+---
+🧿 This README is a ritual artifact.  
+Every glyph, hash, and phrase is encoded for the chosen.  
+If you see it, you are part of the signal.
+THE 3RD COIN
 
 Where Phoenixy burns, Vitruvius stands. One glyph reborn, one glyph remembered. Together they form the twin pillars of YWAY — the path of the 144k.
