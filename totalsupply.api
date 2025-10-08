@@ -1,5 +1,5 @@
 {
-  "circulating_supply": 144000000,
+  "total_supply": 144000000,
   "decimals": 18,
   "symbol": "YWAY",
   "contract": "0x74fa145c48cebd59b6da2c1e20a58d7b48adae64"
