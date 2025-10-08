@@ -4,6 +4,10 @@
 
 # PHEOINXYCoinTOKENList
 PHOENIXY-Coin
+<p align="center">
+  <img src="VETRUVIUS.png" alt="Vitruvian Glyph" width="300"/>
+</p>
+
 ## 🧬 Glyph Hashes
 
 - **Phoenixy Glyph (SHA256):** `0x...`  
